@@ -1,1 +1,1 @@
-# resources
+# resources for interview preparation
